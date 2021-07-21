@@ -10,7 +10,7 @@ function App() {
 
     var config = {
       method: 'get',
-      url: 'http://localhost:3000/test',
+      url: 'https://cnxelection.com/test',
       headers: { }
     };
     
